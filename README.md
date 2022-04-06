@@ -1,1 +1,1 @@
-# Apprentissage-supervis--2022
+# Apprentissage-supervisé-2022
